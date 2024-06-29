@@ -1,4 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jay.remote_assistance_locator">
     <application
         android:label="remote_assistance_locator"
         android:name="${applicationName}"
